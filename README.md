@@ -8,15 +8,11 @@
 
 - [🚀 Features](#-features)
 - [🛠️ Installation](#️-installation)
-- [📦 Requirements](#-requirements)
 - [🧠 Architecture Overview](#-architecture-overview)
 - [💬 Chatbot Capabilities](#-chatbot-capabilities)
 - [🔍 Drug Comparison Tool](#-drug-comparison-tool)
 - [🧾 Explanation Queries](#-explanation-queries)
 - [🩺 Symptom-Based Drug Suggestions](#-symptom-based-drug-suggestions)
-- [🔧 Configuration](#-configuration)
-- [📈 Future Enhancements](#-future-enhancements)
-- [📄 License](#-license)
 
 ---
 
